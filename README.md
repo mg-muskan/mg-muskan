@@ -1,7 +1,4 @@
-<div align="center">
-  
 # Hey 👋, I'm $${\color{#00FFFF}\text{Muskan Gupta}}$$!
-</div>
 
 <div align="center">
 
