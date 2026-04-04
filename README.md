@@ -1,4 +1,4 @@
-# Hey 👋, I'm $${\color{#00FFFF}\text{Muskan Gupta}}$$!
+# Hey 👋, I'm **Muskan Gupta**!
 
 <div align="center">
 
@@ -199,6 +199,9 @@ Prescription upload system for patients + pharmacist download interface. Elastic
 ## 📊 GitHub Analytics
 
 <div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mg-muskan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 <table>
 <tr>
 <td width="50%">
@@ -213,8 +216,6 @@ Prescription upload system for patients + pharmacist download interface. Elastic
 </td>
 </tr>
 </table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mg-muskan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
