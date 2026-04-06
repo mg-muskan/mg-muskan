@@ -19,7 +19,8 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Update timestamp
-        run: echo "Last refresh: $(date -u)" > refresh.txt
+        run: |
+          echo "Last refresh: $(date -u)" > refresh.txt
 
       - name: Commit and push to side branch only
         run: |
