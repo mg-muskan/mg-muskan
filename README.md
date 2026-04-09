@@ -147,6 +147,9 @@ End-to-end Java microservices powering real storefronts — from ElasticSearch-d
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/FreeMarker-005571?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/i18n-333?style=flat-square&logo=internationalization&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drools-CC0000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
 Led full delivery of a UAE client storefront 6 months into the company. Built self-serve Storefront Configuration module — **reduced manual ops by 90%**. Implemented full i18n multilingual support and integrated Meta, Snapchat & WhatsApp tracking pixels.
@@ -156,8 +159,13 @@ Led full delivery of a UAE client storefront 6 months into the company. Built se
 
 <h3 align="center">🛒 OMMall — Live E-commerce Platform</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/FreeMarker-005571?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
   <img src="https://img.shields.io/badge/Drools-CC0000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
@@ -171,8 +179,12 @@ ElasticSearch replaced SQL search across 10,000+ SKUs — **40% faster** with Am
 <h3 align="center">💛 Gold Network — Metals Marketplace</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/FreeMarker-005571?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drools-CC0000?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
 Real-time market-data API integration for automated live pricing of gold, silver & diamond. Differentiated B2B vendor and B2C customer pricing and search logic.
@@ -182,9 +194,11 @@ Real-time market-data API integration for automated live pricing of gold, silver
 
 <h3 align="center">🏥 OpenMedicines — Healthcare Platform</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/FreeMarker-005571?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drools-CC0000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
 Prescription upload system for patients + pharmacist download interface. ElasticSearch-powered search for doctors, ambulances, and hospitals with category and query filters.
